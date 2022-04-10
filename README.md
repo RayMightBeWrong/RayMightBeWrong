@@ -4,7 +4,7 @@ My name is Rui Braga and I'm 20 years old!
 
 - 📚 Studying Software Engineering at Universidade do Minho (3rd year).
 - 👀 About me: Big fan of F1, NBA and football in general.
-- 🌟 Favourite Quote : "Work hard and say it's easy" - Julian Casablancas
+- 🌟 Favourite Quote : "Work hard and say it's easy" - Julian Casablancas, The Modern Age
 
 
 ### SKILLS 👨‍💻
