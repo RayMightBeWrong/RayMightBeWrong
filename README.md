@@ -20,7 +20,7 @@ My name is Rui Braga and I'm 21 years old!
   
 ### CONTACT INFO 📫
  
-<a href="https://www.instagram.com/raymightbewrong/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"></a> <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=rui01braga@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/_rui_braga_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black"></a> <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=rui01braga@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
   
 
