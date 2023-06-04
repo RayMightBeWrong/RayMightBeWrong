@@ -16,6 +16,8 @@ My name is Rui Braga and I'm 21 years old!
 <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="30" height="30"/>
 <!--
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+Erlang
+JavaScript
 -->
   
 ### CONTACT INFO 📫
