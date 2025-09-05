@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-My name is Rui Braga and I'm 22 years old!
+My name is Rui Braga and I'm 24 years old!
 
 - 📚 Studying Software Engineering at Universidade do Minho (5th year).
 - 👀 Big fan of F1, NFL, NBA and football in general.
